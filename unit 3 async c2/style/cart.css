@@ -1,0 +1,15 @@
+#allDisplay {
+    display: grid;
+    grid-template-columns: repeat(3,30%);
+    grid-gap: 5px;
+    grid-row-gap: 10px;;
+}
+
+#itemDiv {
+    padding-top: 10px;
+}
+
+#nol {
+    padding-left: 600px;
+    margin-left: 600px;
+}
